@@ -1,0 +1,6 @@
+{
+  "name": "Koordinasi Kepala Cabang",
+  "description": "Aplikasi pengumuman dan text-to-speech untuk koordinasi Kepala Cabang Dua Dimensi Yogyakarta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
